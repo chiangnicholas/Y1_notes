@@ -1,2 +1,17 @@
-# Y1_notes
-Notes for Y1 PhD
+## Y1 Notes
+
+**This repository contains notes for:**
+
+ECON90002
+
+ECON90003
+
+ECON90053
+
+ECOM90005
+
+ECON90012
+
+ECON90014
+
+ECOM90014
